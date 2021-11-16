@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Kang%20Gumsil&fontSize=50&animation=blink&fontAlignY=28&fontAlign=81)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKang-Gumsil&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Kang-Gumsil's github stats](https://github-readme-stats.vercel.app/api?username=Kang-Gumsil)](https://github.com/junilhwang)
