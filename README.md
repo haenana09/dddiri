@@ -10,4 +10,4 @@
 * 단국대학교 소프트웨어학과 (2018 ~)
   
 ### 기술 스택
-![Android](https://img.shields.io/badge/Android-4fc08d) ![Kotlin](https://img.shields.io/badge/Kotlin-43853d)
+![Android](https://img.shields.io/badge/Android-43853d) ![Kotlin](https://img.shields.io/badge/Kotlin-eb8023)
