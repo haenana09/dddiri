@@ -12,3 +12,5 @@
 
 ### 기술 스택
 ![Android](https://img.shields.io/badge/Android-43853d) ![Kotlin](https://img.shields.io/badge/Kotlin-816ce8)
+
+https://img.shields.io/badge/email-kanggumsil%40naver.com-blue
