@@ -9,7 +9,7 @@
 * [버브앤코](https://www.notion.so/BUV-CO-eef9d493d522421090fe8a575a8f1f97) 현장실습 (2021.6 ~ 2021.8)
 * 단국대학교 소프트웨어학과 (2018 ~ 현재)
 
-![email](https://img.shields.io/badge/kanggumsil@naver.com-7BC245?logo=messenger&logoColor=FFFFFF)
+![email](https://img.shields.io/badge/kanggumsil@naver.com-E89E00?logo=messenger&logoColor=FFFFFF)
 
 ### 기술 스택
 ![Android](https://img.shields.io/badge/Android-7BC245) ![Kotlin](https://img.shields.io/badge/Kotlin-4287F5)
