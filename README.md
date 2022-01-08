@@ -5,7 +5,7 @@
 [![Kang-Gumsil's github stats](https://github-readme-stats.vercel.app/api?username=Kang-Gumsil)](https://github.com/junilhwang)
   
 ### 이력
-* [에스앤피랩](https://www.snplab.io/) 인턴 (2021.9 ~ 현재)
+* [에스앤피랩](https://www.snplab.io/) 인턴 (2021.9 ~ 2021.12)
 * [버브앤코](https://www.notion.so/BUV-CO-eef9d493d522421090fe8a575a8f1f97) 현장실습 (2021.6 ~ 2021.8)
 * 단국대학교 소프트웨어학과 (2018 ~ 현재)
 
