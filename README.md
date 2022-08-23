@@ -6,8 +6,7 @@
   
 ### 이력
 * [에스앤피랩](https://www.snplab.io/) 인턴 (2021.9 ~ 2021.12)
-* [버브앤코](https://www.notion.so/BUV-CO-eef9d493d522421090fe8a575a8f1f97) 현장실습 (2021.6 ~ 2021.8)
-* 단국대학교 소프트웨어학과 (2018 ~ 현재)
+* 단국대학교 소프트웨어학과 (2018 ~ 2021)
 
 ![email](https://img.shields.io/badge/kanggumsil@naver.com-E89E00?logo=messenger&logoColor=FFFFFF)
 
